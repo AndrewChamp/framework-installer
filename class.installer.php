@@ -31,7 +31,7 @@
 				curl_close($ch);
 				fclose($fp);
 			else:
-				print __CLASS__.': File does not exist.';
+				print __CLASS__.': File does not exist.'."\n";
 			endif;
 		}
 		
@@ -43,12 +43,12 @@
 					$zip->extractTo(dirname(__FILE__).'/');
 					$zip->close();
 					unlink($this->installer);
-					print __CLASS__.': Install Complete.';
+					print __CLASS__.': Install Complete.'."\n";
 				else:
-					print __CLASS__.': Could not extract zip.';
+					print __CLASS__.': Could not extract zip.'."\n";
 				endif;
 			else:
-				print __CLASS__.': Installer zip does not exist.';
+				print __CLASS__.': Installer zip does not exist.'."\n";
 			endif;
 		}
 		
