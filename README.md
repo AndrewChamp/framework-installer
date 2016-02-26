@@ -1,8 +1,6 @@
 # Framework Installer
 
-<div style="float:right; margin:0 0 0 10px;">
-![Framework Installer](framework.png "Framework Installer")
-</div>
+<img src="framework.png" alt="Framework Installer" style="float:right; margin:0 0 0 10px;" />
 
 Download and unzip your framework.
 
