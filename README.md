@@ -1,8 +1,6 @@
 # Framework Installer
 
-<img src="framework.png" alt="Framework Installer" style="float:right; margin:0 0 0 10px;" />
-
-Download and unzip your framework.
+<img src="framework.png" alt="Framework Installer" />
 
 ## How To Use
 ```php
