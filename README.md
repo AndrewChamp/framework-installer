@@ -1,4 +1,7 @@
 # Framework Installer
+
+![Framework Installer](framework.png "Framework Installer"){:style="float:right; margin:0 0 0 10px;"}
+
 Download and unzip your framework.
 
 ## How To Use
