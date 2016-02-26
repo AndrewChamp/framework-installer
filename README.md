@@ -24,6 +24,3 @@ $cred = array(
 	);
 $install->create($cred, 'db-config.php');
 ```
-
-
-This will download, unpack, and delete the downloaded zip afterwards.
