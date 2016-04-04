@@ -6,7 +6,7 @@
 ```php
 # Download and unzip Wordpress (or a framework of your choosing).
 
-$install = new installer($url);
+$install = new installer();
 $install->download($install->framework['wordpress']);
 $install->unpack();
 ```
